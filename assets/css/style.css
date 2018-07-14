@@ -553,7 +553,6 @@ div.client {
 .menu ul > li > a:hover,
 .menu ul > li.active > a {
     text-decoration: none;
-    text-decoration: line-through;
 }
 
 .social {
@@ -942,7 +941,6 @@ div.client {
 }
 
 .filters .filter.active {
-    text-decoration: line-through;
 }
 
 .grid-item {
